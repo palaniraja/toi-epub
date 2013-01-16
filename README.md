@@ -19,5 +19,5 @@ _I wrote this script in Aug'2010 and I haven't tested the script recently. Kindl
 
 ####Preview
 
-![Preview](https://github.com/palaniraja/toi-epub/blob/master/photo/IMG_0566.JPG  "Preview")
+![Preview](https://github.com/palaniraja/toi-epub/blob/master/photo/IMG_0566.JPG?raw=true "Preview")
 
