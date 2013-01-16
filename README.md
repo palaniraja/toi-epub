@@ -3,11 +3,9 @@ toi-epub
 
 Times of India - Printed edition epub generator
 
-Note:
-_I wrote this script in Aug'2010 and I haven't tested the script recently. Kindly check the 
-
-
-[Dev Notes text][devnotes]
+_**Note**:
+I wrote this script in Aug'2010 and I haven't tested the script recently. Kindly check the 
+[Dev Notes text][devnotes] for more info._
 
 [devnotes]: https://github.com/palaniraja/toi-epub/blob/master/Dev-Notes.txt
 
