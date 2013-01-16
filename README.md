@@ -9,7 +9,7 @@ _I wrote this script in Aug'2010 and I haven't tested the script recently. Kindl
 
 [Dev Notes text][devnotes]
 
-[devnotes]: Dev-Notes.txt
+[devnotes]: https://github.com/palaniraja/toi-epub/blob/master/Dev-Notes.txt
 
 
 ####Update your hosts file
@@ -19,4 +19,4 @@ _I wrote this script in Aug'2010 and I haven't tested the script recently. Kindl
 
 ####Preview
 
-![Preview of EPUB file in NOOK](photo/IMG_0566.JPG "Preview of EPUB file in NOOK")
+![Preview of EPUB file in NOOK](https://github.com/palaniraja/toi-epub/blob/master/photo/IMG_0566.JPG "Preview of EPUB file in NOOK")
