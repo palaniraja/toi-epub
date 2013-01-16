@@ -1,0 +1,247 @@
+﻿http://epaper.timesofindia.com/Default/Client.asp?Daily=TOICH&showST=true&login=default&pub=TOI&Enter=true&Skin=TOINEW&GZ=T&AW=1281098280171
+
+
+
+
+
+
+http://epaper.timesofindia.com/Default/Scripting/ArchiveView.asp?Daily=TOICH&AppName=1&login=default&pub=TOI&Skin=TOINEW&Enter=true&GZ=T&BaseHref=TOICH%2F2010%2F08%2F06&AW=1281098280171&Page=2
+
+
+
+
+/html/body/table/tbody/tr[5]/td[2]/table/tbody/tr[2]/td[2]/table/tbody/tr/td
+
+
+
+
+
+
+td.class pageThumbnail
+
+
+div.id AP_quickLinksForSection
+
+
+
+
+
+
+http://epaper.timesofindia.com/Repository/TOICH/2010/08/06/TOICH_2010_8_6_3.pdf
+
+
+
+
+
+
+http://mobiletoi.timesofindia.com/mobile.aspx?article=yes&pageid=29&sectid=edid=&edlabel=TOICH&mydateHid=06-08-2010&pubname=Times%20of%20India%20-%20Chennai&edname=&articleid=Ar02900&publabel=TOI
+
+
+
+
+
+
+
+
+http://mobiletoi.timesofindia.com/htmldbtoi/TOICH/20100806/TOICH_articles__20100806.html
+
+
+Lite
+
+
+
+
+http://lite.epaper.timesofindia.com/getpage.aspx?publabel=TOI&city=Chennai
+
+
+page;01
+
+
+http://lite.epaper.timesofindia.com/getpage.aspx?pageid=1&pagesize=&edid=&edlabel=TOICH&mydateHid=06-08-2010&pubname=&edname=&publabel=TOI
+
+
+right frame
+/html/body/table/tbody/tr[4]/td/table/tbody/tr[2]/td/table/tbody/tr/td[2]/iframe
+
+
+
+
+Home page:
+
+
+http://lite.epaper.timesofindia.com/mobile.aspx?sect_articles=yes&sectname=Front%20Page&edlabel=TOICH&mydateHid=06-08-2010&pubname=&edname=&publabel=TOI
+
+
+sub-level
+http://lite.epaper.timesofindia.com/mobile.aspx?article=yes&pageid=1&sectid=edid=&edlabel=TOICH&mydateHid=06-08-2010&pubname=Times+of+India+-+Chennai&edname=&articleid=Ar00100&publabel=TOI
+
+
+printer friendly
+http://lite.epaper.timesofindia.com/mobile.aspx?article=yes&pageid=1&sectid=edid=&edlabel=TOICH&mydateHid=06-08-2010&pubname=Times+of+India+-+Chennai&edname=&articleid=Ar00100&publabel=TOI#
+
+
+
+
+page 2-5 times city
+
+
+http://lite.epaper.timesofindia.com/mobile.aspx?sect_articles=yes&sectname=Times%20City&edlabel=TOICH&mydateHid=06-08-2010&pubname=&edname=&publabel=TOI
+
+
+page-6 ad
+
+
+
+
+page-7 & 8 times region
+http://lite.epaper.timesofindia.com/mobile.aspx?sect_articles=yes&sectname=Times%20Region&edlabel=TOICH&mydateHid=06-08-2010&pubname=&edname=&publabel=TOI
+
+
+
+
+page 9-13 times nation
+http://lite.epaper.timesofindia.com/mobile.aspx?sect_articles=yes&sectname=Times%20Nation&edlabel=TOICH&mydateHid=06-08-2010&pubname=&edname=&publabel=TOI
+
+
+page 14 - editorial
+http://lite.epaper.timesofindia.com/mobile.aspx?sect_articles=yes&sectname=Editorial&edlabel=TOICH&mydateHid=06-08-2010&pubname=&edname=&publabel=TOI
+
+
+page 15 - internations - trends
+http://lite.epaper.timesofindia.com/mobile.aspx?sect_articles=yes&sectname=International&edlabel=TOICH&mydateHid=06-08-2010&pubname=&edname=&publabel=TOI
+
+
+
+
+page 16 - Global
+http://lite.epaper.timesofindia.com/mobile.aspx?sect_articles=yes&sectname=Times%20Global&edlabel=TOICH&mydateHid=06-08-2010&pubname=&edname=&publabel=TOI
+
+
+
+
+page 17-18 - business
+http://lite.epaper.timesofindia.com/mobile.aspx?sect_articles=yes&sectname=Times%20Business&edlabel=TOICH&mydateHid=06-08-2010&pubname=&edname=&publabel=TOI
+
+
+page 19 -21 -  sports
+http://lite.epaper.timesofindia.com/mobile.aspx?sect_articles=yes&sectname=Times%20Sport&edlabel=TOICH&mydateHid=06-08-2010&pubname=&edname=&publabel=TOI
+
+
+page 23- 34 chennai times
+http://lite.epaper.timesofindia.com/mobile.aspx?sect_articles=yes&sectname=Chennai%20Times&edlabel=TOICH&mydateHid=06-08-2010&pubname=&edname=&publabel=TOI
+
+
+
+
+epub
+http://www.spontaneousderivation.com/2008/12/13/creating-ebooks-an-epub-tutorial/
+http://www.jedisaber.com/ebooks/tutorial.asp
+http://www.mobileread.mobi/forums/showthread.php?t=44907
+
+
+
+
+--jquery--
+
+
+http://mobiletoi.timesofindia.com/mobile.aspx?sections=yes&edid=TOICH&edlabel=TOICH&mydateHid=12-08-2010&pubname=Times+of+India+-+Chennai&edname=Chennai&publabel=TOI
+
+
+redirects to http://mobiletoi.timesofindia.com/htmldbtoi/TOICH/20100812/TOICH_articles__20100812.html
+
+
+Mobile image
+
+
+http://mobilepaper.timesofindia.com/Repository/TOICH/2010/08/12/1/Img/Pg001_20.png
+http://mobilepaper.timesofindia.com/Repository/TOICH/2010/08/12/2/Img/Pg002_20.png
+
+
+263x421
+
+
+
+
+60.png working 787x1261
+
+
+Large Image;
+http://epaper.timesofindia.com/Repository/getimage.dll?path=TOICH/2010/08/12/1/Img/Pg001.png
+
+
+Articles of front page
+http://mobiletoi.timesofindia.com/htmldbtoi/TOICH/20100812/TOICH_articles__20100812.html
+
+
+
+
+http://mobiletoi.com/touch
+
+
+http://mobilepaper.timesofindia.com/touch/getpage.aspx?pageid=1&pagesize=20&sections=yes&edid=TOICH&edlabel=TOICH&mydateHid=12-08-2010&pubname=Times+of+India+-+Chennai&edname=Chennai&publabel=TOI
+
+
+
+
+console.log($("b.pda").length);
+
+
+
+
+Total article pages in the section is console.log($("b.pda")); - 2 (one title, one empty)
+
+
+
+
+link to article page
+http://mobiletoi.timesofindia.com/mobile.aspx?article=yes&pageid=2&sectid=edid=&edlabel=TOICH&mydateHid=12-08-2010&pubname=Times+of+India+-+Chennai&edname=&articleid=Ar00200&publabel=TOI
+
+
+with pageid arg split the html
+
+
+Total Pages - $('.divbox').length - 4 (2prev/2next)
+
+
+Article Content -  console.log($('font.pda'));
+
+
+Table of Contents
+Thumbnail of pages
+-list of links to articles
+--goto article (Index,next)
+
+
+
+
+Main sections:
+
+
+console.log($('a.pda')); on front page
+
+
+get the no. of sections on given day - 
+console.log($('a.pda[href*="mobile"]').length);
+
+
+- 4 (2prv/2next)/2
+
+
+i.e console.log(($('a.pda[href*="mobile"]').length - 4 )/2);
+
+
+eg. Aritcle section link
+
+
+
+
+http://mobiletoi.timesofindia.com/mobile.aspx?sect_articles=yes&sectname=Times+Sport&edid=&edlabel=TOICH&mydateHid=12-08-2010&pubname=Times+of+India+-+Chennai+-+Times+Sport&edname=&publabel=TOI
+
+
+article link
+
+
+http://mobiletoi.timesofindia.com/mobile.aspx?article=yes&pageid=1&sectid=edid=&edlabel=TOICH&mydateHid=12-08-2010&pubname=Times+of+India+-+Chennai&edname=&articleid=Ar00100&publabel=TOI
+
+
+articles link only - console.log($('a.pda[href*="articleid"]'));
